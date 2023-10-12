@@ -2,6 +2,8 @@
 
 """
 Calculate the fewest number of operations needed to result in exactly n H characters in the file.
+Returns: int: The minimum number of operations required.
+Copy all and paste.
 """
 
 
